@@ -1,0 +1,39 @@
+.titulo{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+.background{
+    background-color: lightblue;
+}
+
+span.sobre:hover{
+    color: red;
+    background-color: yellow;
+}
+
+p::first-line{
+    color: red;
+}
+
+a:link {
+    background-color: blue;
+    color: white;
+}
+
+a:visited {
+    background-color: white;
+    background-color: blue;
+   
+}
+
+img{
+    height: 300px;
+    margin-left: 100px;
+
+}
+
+div{
+    display: inline-flex;
+}
